@@ -1,9 +1,22 @@
 # Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-![]()
+## Projeto desenvolvido com:
+  - React
+  - Styled-Components
+  - Redux
+  - React-Hooks
+  
 ![](https://github.com/brendosantiago12/Carrinho-de-compras-com-React-e-Redux-/blob/main/carrinho_de_compras/ezgif.com-gif-maker.gif)
+## Funcionalidades:
+  - Listagem de produtos
+  - Adicionar ao carrinho
+  - Calculo total de items
+## O que mais poderia ser feito: 
+  - Paginação
+  - Layout mais elegante
+  - Formatação de números
+  - Entre outros.
+
+### Espero que gostem 
 ## Available Scripts
 
 In the project directory, you can run:
