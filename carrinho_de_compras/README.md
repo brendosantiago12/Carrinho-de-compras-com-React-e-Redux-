@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ![]()
-
+![](https://github.com/brendosantiago12/Carrinho-de-compras-com-React-e-Redux-/blob/main/carrinho_de_compras/ezgif.com-gif-maker.gif)
 ## Available Scripts
 
 In the project directory, you can run:
