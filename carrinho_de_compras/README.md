@@ -4,16 +4,18 @@
   - Styled-Components
   - Redux
   - React-Hooks
+  - Flex-Box
   
 ![](https://github.com/brendosantiago12/Carrinho-de-compras-com-React-e-Redux-/blob/main/carrinho_de_compras/ezgif.com-gif-maker.gif)
 ## Funcionalidades:
   - Listagem de produtos
   - Adicionar ao carrinho
-  - Calculo total de items
+  - Calcular total de itens
 ## O que mais poderia ser feito: 
   - Paginação
   - Layout mais elegante
   - Formatação de números
+  - Animações
   - Entre outros.
 
 ### Espero que gostem 
